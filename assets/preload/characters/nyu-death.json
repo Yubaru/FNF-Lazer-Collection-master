@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2135,
+				990
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "nyu dies"
+		},
+		{
+			"offsets": [
+				126,
+				-429
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "boy confirm"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				118,
+				-573
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "boy dead loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nyu",
+	"position": [
+		320,
+		140
+	],
+	"healthicon": "nyu",
+	"flip_x": true,
+	"healthbar_colors": [
+		100,
+		135,
+		140
+	],
+	"camera_position": [
+		80,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}

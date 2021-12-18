@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				898,
+				360
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "boy dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-159,
+				-279
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "boy confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-162,
+				-363
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "boy dead loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/genieboy",
+	"position": [
+		320,
+		140
+	],
+	"healthicon": "genieboy",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		165,
+		142
+	],
+	"camera_position": [
+		-230,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

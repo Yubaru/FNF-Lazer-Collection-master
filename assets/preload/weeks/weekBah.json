@@ -1,0 +1,57 @@
+{
+	"storyName": "Shoop Da Whoop",
+	"hideFreeplay": false,
+	"weekBackground": "bah",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"doc",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"doc",
+			"doc",
+			[
+				255,
+				98,
+				5
+			]
+		],
+		[
+			"Dirty Mind",
+			"genie",
+			[
+				59,
+				118,
+				175
+			]
+		],
+		[
+			"Get Off",
+			"cat",
+			[
+				24,
+				159,
+				118
+			]
+		],
+		[
+			"collection",
+			"doc",
+			[
+				255,
+				98,
+				5
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "WeekBah"
+}

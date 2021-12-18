@@ -1,0 +1,232 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-89,
+				-40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-101,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-101,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-101,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-101,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-101,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "lefmiss"
+		},
+		{
+			"offsets": [
+				-101,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "dowmiss"
+		},
+		{
+			"offsets": [
+				-100,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "umiss"
+		},
+		{
+			"offsets": [
+				-101,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "righmiss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-39
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "thats",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-33
+			],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "angirig"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-33
+			],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "angido"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-33
+			],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "angile"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-32
+			],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "uangi"
+		},
+		{
+			"offsets": [
+				-89,
+				-33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "angiid"
+		},
+		{
+			"offsets": [
+				-101,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss-alt",
+			"indices": [],
+			"name": "lefmiss"
+		},
+		{
+			"offsets": [
+				-101,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss-alt",
+			"indices": [],
+			"name": "dowmiss"
+		},
+		{
+			"offsets": [
+				-100,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss-alt",
+			"indices": [],
+			"name": "umiss"
+		},
+		{
+			"offsets": [
+				-101,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss-alt",
+			"indices": [],
+			"name": "righmiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/genieboy",
+	"position": [
+		320,
+		140
+	],
+	"healthicon": "genieboy",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		165,
+		142
+	],
+	"camera_position": [
+		-140,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

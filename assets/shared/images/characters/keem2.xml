@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="keem2.png"><SubTexture name="keem2 idle0000" x="0" y="0" width="903" height="686" frameX="0" frameY="0" frameWidth="903" frameHeight="686" />
+<SubTexture name="keem2 idle0001" x="903" y="0" width="876" height="677" frameX="0" frameY="0" frameWidth="876" frameHeight="677" />
+<SubTexture name="keem2 idle0002" x="1779" y="0" width="911" height="687" frameX="0" frameY="0" frameWidth="911" frameHeight="687" />
+<SubTexture name="keem2 idle0003" x="2690" y="0" width="865" height="682" frameX="0" frameY="0" frameWidth="865" frameHeight="682" />
+<SubTexture name="keem2 idle0004" x="0" y="687" width="900" height="686" frameX="0" frameY="0" frameWidth="900" frameHeight="686" />
+<SubTexture name="keem2 up0000" x="900" y="687" width="891" height="684" frameX="0" frameY="0" frameWidth="891" frameHeight="684" />
+<SubTexture name="keem2 up0001" x="1791" y="687" width="868" height="683" frameX="0" frameY="0" frameWidth="868" frameHeight="683" />
+<SubTexture name="keem2 up0002" x="2659" y="687" width="892" height="689" frameX="0" frameY="0" frameWidth="892" frameHeight="689" />
+<SubTexture name="keem2 down0000" x="0" y="1376" width="899" height="684" frameX="0" frameY="0" frameWidth="899" frameHeight="684" />
+<SubTexture name="keem2 down0001" x="899" y="1376" width="871" height="687" frameX="0" frameY="0" frameWidth="871" frameHeight="687" />
+<SubTexture name="keem2 down0002" x="1770" y="1376" width="939" height="687" frameX="0" frameY="0" frameWidth="939" frameHeight="687" />
+<SubTexture name="keem2 right0000" x="2709" y="1376" width="898" height="689" frameX="0" frameY="0" frameWidth="898" frameHeight="689" />
+<SubTexture name="keem2 right0001" x="0" y="2065" width="945" height="687" frameX="0" frameY="0" frameWidth="945" frameHeight="687" />
+<SubTexture name="keem2 right0002" x="945" y="2065" width="944" height="683" frameX="0" frameY="0" frameWidth="944" frameHeight="683" />
+<SubTexture name="keem2 left0000" x="1889" y="2065" width="857" height="684" frameX="0" frameY="0" frameWidth="857" frameHeight="684" />
+<SubTexture name="keem2 left0001" x="2746" y="2065" width="880" height="691" frameX="0" frameY="0" frameWidth="880" frameHeight="691" />
+<SubTexture name="keem2 left0002" x="0" y="2756" width="939" height="686" frameX="0" frameY="0" frameWidth="939" frameHeight="686" />
+</TextureAtlas>

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				48,
+				12
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				212,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				15,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				66,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				69,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				234,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "lefmiss"
+		},
+		{
+			"offsets": [
+				62,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "dowmiss"
+		},
+		{
+			"offsets": [
+				65,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "umiss"
+		},
+		{
+			"offsets": [
+				-1,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "righmiss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-58
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "thats",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nyu",
+	"position": [
+		320,
+		100
+	],
+	"healthicon": "nyu",
+	"flip_x": true,
+	"healthbar_colors": [
+		100,
+		135,
+		140
+	],
+	"camera_position": [
+		80,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}

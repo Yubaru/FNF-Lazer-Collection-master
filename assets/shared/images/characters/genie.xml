@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="genie.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dog0000" x="0" y="0" width="460" height="613"/>
+	<SubTexture name="dog0001" x="460" y="0" width="460" height="613"/>
+	<SubTexture name="dog0002" x="920" y="0" width="460" height="613"/>
+	<SubTexture name="dog0003" x="1380" y="0" width="460" height="613"/>
+	<SubTexture name="dog0004" x="1380" y="0" width="460" height="613"/>
+	<SubTexture name="dog0005" x="1840" y="0" width="460" height="613"/>
+	<SubTexture name="dog0006" x="2300" y="0" width="460" height="613"/>
+	<SubTexture name="dog0007" x="2760" y="0" width="460" height="613"/>
+	<SubTexture name="dog0008" x="3220" y="0" width="460" height="613"/>
+	<SubTexture name="dog0009" x="3220" y="0" width="460" height="613"/>
+	<SubTexture name="dog0010" x="3220" y="0" width="460" height="613"/>
+	<SubTexture name="dog0011" x="0" y="613" width="460" height="613"/>
+	<SubTexture name="dog0012" x="0" y="613" width="460" height="613"/>
+	<SubTexture name="dog0013" x="0" y="613" width="460" height="613"/>
+	<SubTexture name="dog0014" x="460" y="613" width="460" height="613"/>
+	<SubTexture name="dog0015" x="920" y="613" width="460" height="613"/>
+	<SubTexture name="dog0016" x="1380" y="613" width="460" height="613"/>
+	<SubTexture name="dog0017" x="1840" y="613" width="460" height="613"/>
+	<SubTexture name="dog0018" x="2300" y="613" width="460" height="613"/>
+	<SubTexture name="dog0019" x="2760" y="613" width="460" height="613"/>
+	<SubTexture name="dog0020" x="3220" y="613" width="460" height="613"/>
+	<SubTexture name="dog0021" x="0" y="1226" width="460" height="613"/>
+	<SubTexture name="dog0022" x="460" y="1226" width="460" height="613"/>
+	<SubTexture name="dog0023" x="920" y="1226" width="460" height="613"/>
+	<SubTexture name="dog0024" x="1380" y="1226" width="460" height="613"/>
+	<SubTexture name="dog0025" x="1840" y="1226" width="460" height="613"/>
+	<SubTexture name="dog0026" x="1840" y="1226" width="460" height="613"/>
+	<SubTexture name="dog0027" x="1840" y="1226" width="460" height="613"/>
+	<SubTexture name="down0000" x="2300" y="1226" width="459" height="613"/>
+	<SubTexture name="idle0000" x="2759" y="1226" width="459" height="592" frameX="0" frameY="-21" frameWidth="459" frameHeight="633"/>
+	<SubTexture name="idle0001" x="3218" y="1226" width="459" height="603" frameX="0" frameY="-15" frameWidth="459" frameHeight="633"/>
+	<SubTexture name="idle0002" x="0" y="1839" width="459" height="615" frameX="0" frameY="-9" frameWidth="459" frameHeight="633"/>
+	<SubTexture name="idle0003" x="459" y="1839" width="459" height="625" frameX="0" frameY="-4" frameWidth="459" frameHeight="633"/>
+	<SubTexture name="idle0004" x="918" y="1839" width="459" height="633"/>
+	<SubTexture name="idle0005" x="918" y="1839" width="459" height="633"/>
+	<SubTexture name="idle0006" x="918" y="1839" width="459" height="633"/>
+	<SubTexture name="idle0007" x="918" y="1839" width="459" height="633"/>
+	<SubTexture name="idle0008" x="918" y="1839" width="459" height="633"/>
+	<SubTexture name="idle0009" x="918" y="1839" width="459" height="633"/>
+	<SubTexture name="idle0010" x="918" y="1839" width="459" height="633"/>
+	<SubTexture name="idle0011" x="918" y="1839" width="459" height="633"/>
+	<SubTexture name="idle0012" x="918" y="1839" width="459" height="633"/>
+	<SubTexture name="left0000" x="1377" y="1839" width="459" height="613"/>
+	<SubTexture name="right0000" x="1836" y="1839" width="459" height="613"/>
+	<SubTexture name="up0000" x="2295" y="1839" width="459" height="613"/>
+</TextureAtlas>
